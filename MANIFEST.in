@@ -1,0 +1,14 @@
+include LICENSE README.md
+recursive-include src *.py
+prune wheelhouse
+prune exports
+prune .venv
+prune Vorlage
+prune .git
+prune .agents
+prune .codex
+prune .aws
+prune build
+prune dist
+prune release-preparation
+global-exclude *.[eE][bB][lL][cC][fF][gG] *.[pP][eE][mM] *.[kK][eE][yY] *.[pP]12 *.[pP][fF][xX] *.[iI][mM][gG] *.[iI][mM][gG].[xX][zZ] *.[xX][zZ] .env .env.* *.pyc
