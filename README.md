@@ -259,14 +259,11 @@ Vergleich und Abnahmestatus: [GUI-Überarbeitung](docs/GUI-REVIEW.md).
 
 ## Projektstatus und GitHub
 
-Geplantes Ziel: `Faber38/eBlockerBackupExplorer`, später öffentlich.
-Das lokale Git-Repository existiert auf Branch `main`; es gibt noch keinen Commit.
-Die GitHub-Veröffentlichung steht aus. In der Release-Vorbereitung wurden kein
-GitHub-Repository angelegt, kein Push, Commit, Tag oder Release ausgeführt.
+Öffentliches GitHub-Repository: [Faber38/eBlockerBackupExplorer](https://github.com/Faber38/eBlockerBackupExplorer)
 
-CMDRHelper wurde ausschließlich als Erfahrungsgrundlage für Startverhalten,
-Umgebungstrennung, Qt-Skalierung und plattformspezifische Tests herangezogen.
-Es wurden keine Dateien oder Komponenten daraus übernommen.
+Erste veröffentlichte Version: **v0.1.0**
+
+Releases: [GitHub-Releases](https://github.com/Faber38/eBlockerBackupExplorer/releases)
 
 Lizenz: [MIT](LICENSE). Drittanbieter-Abhängigkeiten behalten ihre eigenen Lizenzen;
 diese sind bei einer späteren Binärverteilung ebenfalls zu berücksichtigen.
